@@ -1,0 +1,16 @@
+{
+  "name": "scrape-test",
+  "version": "1.0.0",
+  "description": "ScrapeTest",
+  "main": "app.js",
+  "author": "",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2"
+  }
+}
